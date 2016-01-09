@@ -1,0 +1,28 @@
+name: Diplomaniacs
+favicon: null
+layout_spectrum: 0.6044235087465495
+typography_spectrum: 0.5991988985333592
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.30239472235552967
+  lightness: 0.6193618529941887
+  saturation: 0.5444898528512567
+  rhythmicContrast: 0.4442268870770931
+purpose: []
